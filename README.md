@@ -1,4 +1,4 @@
-Here's an updated description for your GitHub repository that includes detailed instructions on how to pull, run, and access the Docker container, as well as how to clone the repository and set it up with Apache2.
+
 
 ---
 
@@ -83,5 +83,3 @@ docker pull hacksudov1/myfbphish
 **Disclaimer:** This code is for educational purposes only. Unauthorized use of this code to obtain login credentials without permission is illegal and unethical. Use this responsibly and only for authorized security testing and research.
 
 ---
-
-Feel free to adjust the description according to your needs and make sure to include a disclaimer to indicate that the code should be used responsibly and ethically.
