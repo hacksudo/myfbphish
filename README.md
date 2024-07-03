@@ -6,6 +6,13 @@
 
 This repository contains the code for a Facebook phishing page, packaged as a Docker container. You can use this code to create a Facebook clone page that logs credentials entered by users.
 
+### Docker Install
+
+You Need ti install docker in your system:
+
+```sh
+sudo apt install docker.io
+```
 ### Docker Hub
 
 You can pull the Docker image from the following link:
